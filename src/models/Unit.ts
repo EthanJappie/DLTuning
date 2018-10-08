@@ -1,0 +1,4 @@
+enum Unit{
+    METRIC,
+    ENGLISH
+}

@@ -1,0 +1,22 @@
+class Car{
+    Units:string;
+    Name:string;
+    Weight:number;
+    FrontBiase:number;
+    FrontArb:number;
+    RearArb:number;
+    FrontCamber:number;
+    RearCamber:number;
+    FrontToe:number;
+    RearToe:number;
+    FrontCaster:number;
+    RearCaster:number;
+    FrontSprings:number;
+    RearSprings:number;
+    FrontRebound:number;
+    RearRebound:number;
+    FrontBump:number;
+    RearBump:number;
+    FrontAero:number;
+    RearAero:number;
+}
